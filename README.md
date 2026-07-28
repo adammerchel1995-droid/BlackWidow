@@ -1,5 +1,4 @@
 # BlackWidow
-This tool is for educational practices only
 #!/usr/bin/env python3
 """
 Black Widow - Authorized Network Stress Testing and for educational purposes only use this
